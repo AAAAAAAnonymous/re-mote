@@ -1,0 +1,1 @@
+Library for reading from a GPS, used in the re-mote setup found at https://<RETRACTED>/re-mote

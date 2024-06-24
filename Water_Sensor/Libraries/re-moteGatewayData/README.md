@@ -1,0 +1,1 @@
+Library for saving the data of a gateway, used in the re-mote setup found at https://<RETRACTED>/re-mote
